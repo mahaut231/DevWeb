@@ -1,0 +1,8 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\mg711009\\Downloads\\daw-fullstack-main\\daw-fullstack-main\\backend\\libs\\mysql-connector-j-8.4.0.jar"
+    ]
+}
