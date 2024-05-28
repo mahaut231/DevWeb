@@ -1,7 +1,8 @@
-import database.PolyBayDatabase;
+import dao.ProductsDAO;
 
 public class App {
     public static void main(String[] args) throws Exception {
-        PolyBayDatabase test = new PolyBayDatabase();
+        ProductsDAO test = new ProductsDAO();
+        System.out.println(test.findAll());
     }
 }
